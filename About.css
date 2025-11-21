@@ -1,0 +1,82 @@
+/* Container styling */
+.about-container {
+    background-color: #f9f9f9;
+    padding: 40px;
+    max-width: 900px;
+    margin: 40px auto;
+    border-radius: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Heading styles */
+  .about-container h1 {
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #1e3a8a; /* Deep blue */
+  }
+  
+  .about-container h2 {
+    font-size: 1.8rem;
+    margin-top: 30px;
+    color: #2563eb; /* Lighter blue */
+    border-left: 4px solid #1e3a8a;
+    padding-left: 10px;
+  }
+  
+  /* Paragraph styles */
+  .about-container p {
+    font-size: 1.1rem;
+    line-height: 1.7;
+    margin-bottom: 15px;
+    color: #333;
+  }
+  
+  /* List styles */
+  .about-container ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  .about-container li {
+    margin-bottom: 10px;
+    font-size: 1rem;
+    color: #444;
+  }
+  
+  /* Contact section */
+  .about-container .contact-info {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #e0f2fe; /* Light blue background */
+    border-radius: 12px;
+  }
+  
+  .about-container .contact-info p {
+    margin: 5px 0;
+    color: #1e40af;
+    font-weight: 500;
+  }
+  
+  /* Hover effects for better interactivity */
+  .about-container li:hover {
+    color: #1d4ed8;
+    transform: translateX(5px);
+    transition: all 0.2s ease-in-out;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .about-container {
+      padding: 20px;
+    }
+  
+    .about-container h1 {
+      font-size: 2rem;
+    }
+  
+    .about-container h2 {
+      font-size: 1.5rem;
+    }
+  }
+  
