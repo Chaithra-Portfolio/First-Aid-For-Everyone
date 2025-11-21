@@ -1,70 +1,157 @@
-# Getting Started with Create React App
+# 🩺 First Aid for Everyone  
+A modern, responsive, and intelligent first aid learning platform built using **React**, **Node.js**, **Express.js**, and **MongoDB**.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🔰 Badges
 
-## Available Scripts
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Frontend](https://img.shields.io/badge/Frontend-React-blue)
+![Backend](https://img.shields.io/badge/Backend-Node.js-green)
+![Database](https://img.shields.io/badge/Database-MongoDB-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)
 
-In the project directory, you can run:
+# ⭐ Project Overview
 
-### `npm start`
+**First Aid for Everyone** is a complete first aid learning platform that helps users access:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Emergency first aid videos  
+- Downloadable PDF first aid guides  
+- Nearby hospital locations  
+- Emergency call buttons  
+- Secure feedback system  
+- User activity tracking  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Built with the goal of saving lives through accessible first aid knowledge.
 
-### `npm test`
+# 🎥 Demo Video  
+🚧 *Demo video will be added soon…*
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# 🖼️ Screenshots
 
-### `npm run build`
+### **Homepage**
+![Homepage](/mnt/data/Screenshot (646).png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### **Emergency Numbers**
+![Emergency Numbers](/mnt/data/Screenshot (648).png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### **Downloadable Documents**
+![Documents](/mnt/data/Screenshot (649).png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### **Nearby Hospitals (Map Integration)**
+![Nearby Hospitals](/mnt/data/Screenshot (650).png)
 
-### `npm run eject`
+### **Feedback System**
+![Feedback Form](/mnt/data/Screenshot (651).png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### **Video Search Result – Snake Bite**
+![Video Search](/mnt/data/Screenshot (653).png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### **MongoDB – Feedbacks Collection**
+![MongoDB Feedbacks](/mnt/data/Screenshot (644).png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### **MongoDB – Video Views Collection**
+![MongoDB VideoViews](/mnt/data/Screenshot (645).png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### **PDF Example (Stroke PDF)**
+![PDF Example](/mnt/data/Screenshot (655).png)
 
-## Learn More
+### **VS Code + Server Running**
+![Dev Setup](/mnt/data/Screenshot (656).png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# 🚀 Features
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 🔹 First Aid Video Learning  
+- Dynamic search  
+- Category-based videos  
+- High-quality educational content  
 
-### Code Splitting
+### 🔹 Downloadable PDF Guides  
+40+ emergency first aid PDFs, covering:
+- Burns  
+- CPR  
+- Fractures  
+- Stroke  
+- Seizures  
+- Disaster management  
+- Emergency childbirth  
+…and more.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### 🔹 Emergency Contact System  
+- Call Ambulance  
+- Call Police  
+- Call Fire Brigade  
+- WhatsApp Emergency Chat  
 
-### Analyzing the Bundle Size
+### 🔹 Find Nearby Hospitals  
+- **OpenStreetMap** integration  
+- Auto-detect user location  
+- Interactive map markers  
+- Hospital distance and directions  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### 🔹 Smart Search + Voice Search  
+- Search videos by keywords  
+- Voice-based search input  
 
-### Making a Progressive Web App
+### 🔹 User Activity Tracking  
+Automatically logs:  
+- Email ID  
+- Watched video  
+- Date & time  
+- Search queries  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### 🔹 Feedback System  
+- 1–5 star ratings  
+- Comments  
+- Stored in MongoDB  
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+# ⚙️ Tech Stack
 
-### Deployment
+### **Frontend**
+- React.js  
+- React Router  
+- CSS  
+- Axios / Fetch  
+- Leaflet.js (Maps)  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### **Backend**
+- Node.js  
+- Express.js  
+- MongoDB  
+- Mongoose  
 
-### `npm run build` fails to minify
+### **Tools**
+- VS Code  
+- GitHub  
+- MongoDB Atlas  
+- Postman  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# 📁 Folder Structure
+first-aid-app/
+│── public/
+│── src/
+│ ├── components/
+│ ├── pages/
+│ ├── styles/
+│ └── utils/
+│── server.js
+│── package.json
+│── .env
+│── PDF files
+│── README.md
+
+2. Install Frontend Dependencies
+cd first-aid-app
+npm install
+npm start
+3. Run Backend
+node server.js
+
+👩‍💻 Developer
+
+Chaithra N
+MCA Graduate | Aspiring Full-Stack Developer
+Passionate about building meaningful applications that help people.
+
+If you like this project, please ⭐ star the repository.
