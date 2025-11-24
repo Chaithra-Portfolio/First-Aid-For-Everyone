@@ -23,40 +23,11 @@ A modern, responsive, and intelligent first aid learning platform built using **
 
 Built with the goal of saving lives through accessible first aid knowledge.
 
-# 🎥 Demo Video  
-🚧 *Demo video will be added soon…*
+# 📸 Project Screenshots
+Click below to view all screenshots of the project:
 
-# 🖼️ Screenshots
+👉 [View Screenshots Folder](https://github.com/Chaithra-Portfolio/First-Aid-For-Everyone/tree/main/First_Aid_Project_Screenshots)
 
-### **Homepage**
-![Homepage](/mnt/data/Screenshot (646).png)
-
-### **Emergency Numbers**
-![Emergency Numbers](/mnt/data/Screenshot (648).png)
-
-### **Downloadable Documents**
-![Documents](/mnt/data/Screenshot (649).png)
-
-### **Nearby Hospitals (Map Integration)**
-![Nearby Hospitals](/mnt/data/Screenshot (650).png)
-
-### **Feedback System**
-![Feedback Form](/mnt/data/Screenshot (651).png)
-
-### **Video Search Result – Snake Bite**
-![Video Search](/mnt/data/Screenshot (653).png)
-
-### **MongoDB – Feedbacks Collection**
-![MongoDB Feedbacks](/mnt/data/Screenshot (644).png)
-
-### **MongoDB – Video Views Collection**
-![MongoDB VideoViews](/mnt/data/Screenshot (645).png)
-
-### **PDF Example (Stroke PDF)**
-![PDF Example](/mnt/data/Screenshot (655).png)
-
-### **VS Code + Server Running**
-![Dev Setup](/mnt/data/Screenshot (656).png)
 
 # 🚀 Features
 
